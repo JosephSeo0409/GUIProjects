@@ -37,5 +37,6 @@ public class GUIRubicks{
       pane.add(panel9);
       
       theGUI.setVisible(true);
+      //Hello
    }
 }
